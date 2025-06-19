@@ -1,13 +1,13 @@
 {
   "site": {
     "name": "Momai Brass Precision Components",
-    "favicon": "https://images.unsplash.com/photo-1593720219276-0b1edf059d40?fit=crop&w=64&h=64",
+    "favicon": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2?ixid=mechanical+parts+icon",
     "tagline": "Precision Engineering Excellence"
   },
   "footer": {
     "social": [
       {
-        "url": "https://facebook.com/momai-brass",
+        "url": "https://facebook.com/momaibrass",
         "icon": "facebook",
         "platform": "facebook"
       },
@@ -22,7 +22,7 @@
         "platform": "twitter"
       },
       {
-        "url": "https://instagram.com/momai_brass",
+        "url": "https://instagram.com/momaibrass",
         "icon": "instagram",
         "platform": "instagram"
       }
@@ -80,10 +80,10 @@
     ]
   },
   "company": {
-    "logo": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?fit=crop&w=300&h=200",
+    "logo": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2?ixid=mechanical+manufacturing+logo",
     "name": "Momai Brass Precision Components",
     "tagline": "Precision Engineering Excellence",
-    "description": "With 30 years of expertise and over 40 CNC machines, Momai Brass specializes in manufacturing high-precision components for automotive, pneumatic, hydraulic, and electrical sectors using advanced manufacturing techniques."
+    "description": "Momai Brass is a leading precision components manufacturer with 30 years of expertise in producing high-quality metal parts for automotive, pneumatic, and electrical sectors using advanced CNC technology."
   },
   "contact": {
     "email": "info@momaibrass.com",
@@ -91,13 +91,13 @@
     "timing": [
       {
         "hours": "9:00 AM - 6:00 PM",
-        "label": "Monday - Friday"
+        "label": "Mon - Fri"
       },
       {
         "hours": "9:00 AM - 1:00 PM",
         "label": "Saturday"
       }
     ],
-    "address": "Plot 45, Industrial Estate, Near GIDC, Rajkot - 360002, Gujarat, India"
+    "address": "Plot 123, Industrial Estate, Rajkot - 360002, Gujarat, India"
   }
 }
