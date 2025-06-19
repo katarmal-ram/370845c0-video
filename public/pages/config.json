@@ -7,7 +7,7 @@
   "footer": {
     "social": [
       {
-        "url": "https://facebook.com/momai-brass",
+        "url": "https://facebook.com/momaibrass",
         "icon": "facebook",
         "platform": "facebook"
       },
@@ -22,7 +22,7 @@
         "platform": "twitter"
       },
       {
-        "url": "https://instagram.com/momai_brass",
+        "url": "https://instagram.com/momaibrass",
         "icon": "instagram",
         "platform": "instagram"
       }
@@ -83,7 +83,7 @@
     "logo": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2?ixid=mechanical+manufacturing+logo",
     "name": "Momai Brass Precision Components",
     "tagline": "Precision Engineering Excellence",
-    "description": "With 30 years of expertise in precision component manufacturing, Momai Brass delivers high-quality metal parts using advanced CNC technology for automotive, pneumatic, and hydraulic sectors."
+    "description": "Momai Brass is a leading precision parts manufacturer with 30 years of expertise in producing high-quality components for automotive, pneumatic, and hydraulic sectors using advanced CNC technology."
   },
   "contact": {
     "email": "info@momaibrass.com",
@@ -98,6 +98,6 @@
         "label": "Saturday"
       }
     ],
-    "address": "Plot 45, Industrial Estate, Rajkot - 360002, Gujarat, India"
+    "address": "Plot 123, Industrial Estate, Rajkot - 360002, Gujarat, India"
   }
 }
