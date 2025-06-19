@@ -8,7 +8,7 @@
   },
   "meta": {
     "title": "Momai Brass | Precision Industrial Components Manufacturing",
-    "description": "Specialized precision parts manufacturing for automotive, pneumatic, hydraulic, and electrical sectors using advanced CNC technology"
+    "description": "Leading manufacturer of precision brass, steel, and aluminum components for automotive, pneumatic, and electrical industries with 30 years of expertise."
   },
   "products": {
     "categories": [
@@ -18,43 +18,43 @@
         "image": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b",
         "products": [
           {
-            "id": "brass-connectors",
-            "name": "Brass Precision Connectors",
+            "id": "precision-brass-fittings",
+            "name": "Precision Brass Fittings",
             "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e",
-            "description": "High-precision brass connectors designed for automotive systems with superior durability and performance",
+            "description": "High-precision brass fittings manufactured using advanced CNC machining techniques for automotive systems",
             "applications": [
               "Engine Components",
-              "Fuel Systems",
-              "Transmission Assemblies",
-              "Cooling Systems"
+              "Fuel System Connections",
+              "Transmission Parts",
+              "Cooling System Fittings"
             ],
             "specifications": [
               "Material: High-Grade Brass",
               "Tolerance: ±0.01mm",
-              "Temperature Range: -40°C to 150°C",
-              "Surface Finish: Electroplated"
+              "Surface Finish: Ra 0.4",
+              "Temperature Range: -40°C to 150°C"
             ]
           },
           {
-            "id": "steel-fasteners",
-            "name": "Stainless Steel Precision Fasteners",
+            "id": "aluminum-connectors",
+            "name": "Aluminum Precision Connectors",
             "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e",
-            "description": "Corrosion-resistant stainless steel fasteners for critical automotive applications",
+            "description": "Lightweight aluminum connectors designed for high-performance automotive applications",
             "applications": [
-              "Suspension Systems",
-              "Brake Assemblies",
-              "Electrical Connections",
-              "Structural Mounting"
+              "Electrical Systems",
+              "Sensor Connections",
+              "Wiring Harness Components",
+              "Electronic Control Units"
             ],
             "specifications": [
-              "Material: 304/316 Stainless Steel",
-              "Tensile Strength: 570-620 MPa",
+              "Material: Aerospace Grade Aluminum",
+              "Weight: Lightweight Design",
               "Corrosion Resistance: High",
-              "Size Range: M2-M20"
+              "Electrical Conductivity: Optimized"
             ]
           }
         ],
-        "description": "Precision automotive components manufactured with advanced CNC technology for superior performance and reliability"
+        "description": "Precision automotive components engineered for reliability and performance"
       },
       {
         "id": "pneumatic-components",
@@ -62,31 +62,31 @@
         "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e",
         "products": [
           {
-            "id": "aluminum-fittings",
-            "name": "Aluminum Pneumatic Fittings",
+            "id": "stainless-steel-valves",
+            "name": "Stainless Steel Pneumatic Valves",
             "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e",
-            "description": "Lightweight and durable aluminum pneumatic fittings for efficient air transmission systems",
+            "description": "Precision-engineered stainless steel valves for pneumatic systems with exceptional durability",
             "applications": [
-              "Compressed Air Systems",
-              "Robotic Machinery",
               "Industrial Automation",
-              "Pneumatic Tools"
+              "Compressed Air Systems",
+              "Robotic Equipment",
+              "Manufacturing Machinery"
             ],
             "specifications": [
-              "Material: Aircraft Grade Aluminum",
-              "Pressure Rating: Up to 150 PSI",
+              "Material: 316L Stainless Steel",
+              "Pressure Rating: Up to 10 Bar",
               "Temperature Range: -20°C to 120°C",
-              "Thread Standards: BSP/NPT"
+              "Flow Coefficient: Optimized Design"
             ]
           }
         ],
-        "description": "Precision pneumatic components designed for optimal performance in industrial automation and compressed air systems"
+        "description": "Advanced pneumatic components designed for maximum efficiency and reliability"
       }
     ],
     "categoriesTitle": "Our Product Categories",
     "allProductsTitle": "Complete Product Range",
-    "categoriesSubtitle": "Find the Perfect Precision Components for Your Industry",
-    "allProductsSubtitle": "Comprehensive Solutions from Momai Brass"
+    "categoriesSubtitle": "Find Precision Solutions for Your Industry",
+    "allProductsSubtitle": "Comprehensive Manufacturing Capabilities"
   },
   "sections": {
     "cta": {
@@ -106,9 +106,9 @@
     "products": {
       "type": "products",
       "items": [],
-      "title": "Explore Our Product Range",
+      "title": "Our Precision Product Range",
       "enabled": true,
-      "subtitle": "30 Years of Precision Manufacturing Excellence"
+      "subtitle": "Delivering High-Quality Components Across Multiple Industries"
     }
   }
 }
