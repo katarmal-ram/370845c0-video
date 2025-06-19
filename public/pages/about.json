@@ -8,12 +8,12 @@
     "title": "About Momai Brass",
     "enabled": true,
     "subtitle": "Engineering Precision Since 1993",
-    "description": "Momai Brass is a leading precision components manufacturer with three decades of expertise in delivering high-quality metal parts. Our commitment to innovation and quality has positioned us as a trusted partner in automotive, pneumatic, and hydraulic industries.",
-    "backgroundImage": "/manufacturing-facility.jpg"
+    "description": "Momai Brass is a leading precision components manufacturer with three decades of expertise in delivering high-quality metal parts. We combine advanced CNC technology with deep engineering knowledge to serve critical industries with exceptional manufacturing solutions.",
+    "backgroundImage": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2"
   },
   "meta": {
     "title": "Momai Brass - Precision Manufacturing Excellence Since 1993",
-    "description": "30 years of precision manufacturing expertise, specializing in custom brass, stainless steel, and aluminum components for diverse industrial sectors."
+    "description": "30 years of precision manufacturing expertise, delivering high-quality metal components for automotive, pneumatic, and electrical sectors using advanced CNC technology."
   },
   "sections": {
     "cta": {
@@ -45,7 +45,7 @@
           "year": "2021",
           "title": "Export Performance Award",
           "authority": "Ministry of Commerce",
-          "description": "Acknowledged for significant contributions to industrial exports"
+          "description": "Acknowledged for significant contributions to export growth in precision components"
         }
       ],
       "title": "Awards & Recognition",
@@ -58,19 +58,19 @@
         {
           "id": "iso-quality",
           "name": "ISO 9001:2015",
-          "image": "/iso-9001.svg",
-          "description": "Quality management system certification demonstrating consistent product quality"
+          "image": "/placeholder.svg",
+          "description": "Quality management system certification demonstrating consistent product quality and customer satisfaction"
         },
         {
           "id": "iso-environmental",
           "name": "ISO 14001:2015",
-          "image": "/iso-14001.svg",
-          "description": "Environmental management system certification ensuring sustainable practices"
+          "image": "/placeholder.svg",
+          "description": "Environmental management system certification highlighting our commitment to sustainable manufacturing practices"
         }
       ],
       "title": "Certifications & Standards",
       "enabled": true,
-      "subtitle": "Committed to Global Quality and Environmental Standards"
+      "subtitle": "Committed to Quality and Environmental Responsibility"
     },
     "companyJourney": {
       "type": "company-journey",
@@ -78,22 +78,27 @@
         {
           "year": "1993",
           "title": "Company Foundation",
-          "description": "Established in Rajkot with a vision to provide high-precision metal components"
+          "description": "Established in Rajkot with a vision to provide high-precision metal components to emerging industrial sectors"
         },
         {
           "year": "2003",
           "title": "First CNC Machine Investment",
-          "description": "Expanded manufacturing capabilities with initial CNC machine investments"
+          "description": "Expanded manufacturing capabilities by investing in first advanced CNC machining technology"
         },
         {
-          "year": "2013",
-          "title": "ISO Certification Achievement",
-          "description": "Obtained ISO 9001 and 14001 certifications, reinforcing quality commitment"
+          "year": "2010",
+          "title": "Quality Certification Achievement",
+          "description": "Obtained ISO 9001 certification, establishing rigorous quality management standards"
+        },
+        {
+          "year": "2015",
+          "title": "Jamnagar Branch Establishment",
+          "description": "Expanded operations with new manufacturing facility in Jamnagar to serve growing market demand"
         },
         {
           "year": "2020",
-          "title": "Jamnagar Branch Expansion",
-          "description": "Opened second manufacturing facility to enhance production capacity"
+          "title": "Technology Modernization",
+          "description": "Upgraded to 40+ advanced CNC machines, enhancing precision and production capacity"
         }
       ],
       "title": "Our Journey",
@@ -105,30 +110,34 @@
       "items": [
         {
           "id": "cnc-machines",
-          "image": "/cnc-machines.jpg",
-          "title": "Advanced CNC Machining",
-          "capacity": "40+ CNC Machines",
-          "description": "State-of-the-art CNC machinery enabling precision manufacturing across multiple material types",
-          "specifications": "Multi-axis capabilities, high-precision tolerances, diverse material compatibility"
+          "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2",
+          "title": "Advanced CNC Machining Center",
+          "capacity": "40+ Precision CNC Machines",
+          "description": "State-of-the-art CNC machining capabilities for producing complex metal components with micron-level precision",
+          "specifications": [
+            "Multi-axis machining",
+            "High-speed cutting",
+            "Precision tolerances: ±0.01mm"
+          ]
         }
       ],
-      "title": "Manufacturing Infrastructure",
+      "title": "Our Manufacturing Infrastructure",
       "enabled": true,
       "subtitle": "Cutting-Edge Technology for Precision Manufacturing"
     },
     "companyOverview": {
       "type": "company-overview",
-      "image": "/company-facility.jpg",
+      "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2",
       "items": [
         {
           "id": "overview",
-          "content": "Momai Brass is a premier precision components manufacturer with 30 years of expertise, specializing in producing high-quality metal parts for automotive, pneumatic, hydraulic, and electrical sectors. Our advanced CNC manufacturing capabilities and commitment to quality have established us as a trusted partner for businesses seeking precision-engineered components.",
+          "content": "Momai Brass is a premier precision components manufacturer with 30 years of expertise in producing high-quality metal parts for automotive, pneumatic, hydraulic, and electrical sectors. Our advanced CNC technology and commitment to quality enable us to deliver exceptional components that meet the most demanding industrial standards.",
           "highlights": [
-            "ISO 9001:2015 and ISO 14001:2015 Certified",
+            "ISO 9001:2015 & ISO 14001:2015 Certified",
             "40+ Advanced CNC Machines",
-            "Nationwide Manufacturing Presence",
-            "Custom Manufacturing Solutions",
-            "Expertise in Brass, Stainless Steel, Aluminum, Copper",
+            "Serving Multiple Industrial Sectors",
+            "Custom Manufacturing Capabilities",
+            "Precision Parts in Brass, Stainless Steel, Aluminum, Copper",
             "Comprehensive Surface Finishing Services",
             "Commitment to Sustainable Manufacturing"
           ]
@@ -145,40 +154,40 @@
           "id": "design",
           "step": 1,
           "title": "Engineering Design",
-          "description": "Comprehensive design analysis and precision engineering"
+          "description": "Collaborative design phase using advanced CAD/CAM technologies to develop precise component blueprints"
         },
         {
           "id": "material",
           "step": 2,
           "title": "Material Selection",
-          "description": "Careful material sourcing and quality verification"
+          "description": "Carefully selecting optimal materials including brass, stainless steel, aluminum, and copper based on component requirements"
         },
         {
           "id": "production",
           "step": 3,
-          "title": "CNC Machining",
-          "description": "Precision manufacturing using advanced CNC technology"
+          "title": "Precision Machining",
+          "description": "Utilizing advanced CNC machines to manufacture components with micron-level accuracy"
         },
         {
           "id": "quality",
           "step": 4,
-          "title": "Quality Inspection",
-          "description": "Rigorous quality control and dimensional verification"
+          "title": "Comprehensive Quality Control",
+          "description": "Rigorous inspection and testing to ensure every component meets stringent quality standards"
         },
         {
           "id": "finishing",
           "step": 5,
           "title": "Surface Treatment",
-          "description": "Advanced surface finishing and treatment processes"
+          "description": "Advanced surface finishing techniques including deburring, polishing, and specialized coatings"
         },
         {
           "id": "delivery",
           "step": 6,
-          "title": "Packaging & Delivery",
-          "description": "Secure packaging and timely, reliable delivery"
+          "title": "Precise Packaging & Delivery",
+          "description": "Careful packaging and timely delivery ensuring components arrive in perfect condition"
         }
       ],
-      "title": "Manufacturing Process",
+      "title": "Our Manufacturing Process",
       "enabled": true,
       "subtitle": "Systematic Approach to Precision Manufacturing"
     }
