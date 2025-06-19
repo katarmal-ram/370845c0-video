@@ -22,7 +22,7 @@
       "enabled": true,
       "subtitle": "Transform Your Manufacturing Needs with Our Precision Solutions",
       "primaryCTA": {
-        "text": "Get Quote",
+        "text": "Get a Quote",
         "action": "/contact"
       },
       "secondaryCTA": {
@@ -59,13 +59,13 @@
           "id": "iso-quality",
           "name": "ISO 9001:2015",
           "image": "/placeholder.svg",
-          "description": "Quality management system certification demonstrating consistent product quality and customer satisfaction"
+          "description": "Quality Management System Certification demonstrating consistent product quality"
         },
         {
           "id": "iso-environmental",
           "name": "ISO 14001:2015",
           "image": "/placeholder.svg",
-          "description": "Environmental management system certification highlighting our commitment to sustainable manufacturing practices"
+          "description": "Environmental Management System Certification ensuring sustainable manufacturing practices"
         }
       ],
       "title": "Certifications & Standards",
@@ -88,17 +88,17 @@
         {
           "year": "2010",
           "title": "Quality Certification Achievement",
-          "description": "Obtained ISO 9001 certification, marking our commitment to international quality standards"
+          "description": "Obtained ISO 9001 certification, marking commitment to international quality standards"
         },
         {
           "year": "2015",
           "title": "Jamnagar Branch Establishment",
-          "description": "Expanded operations with a new manufacturing facility in Jamnagar"
+          "description": "Expanded operations with new manufacturing facility in Jamnagar"
         },
         {
           "year": "2020",
           "title": "Technology Modernization",
-          "description": "Upgraded to 40+ advanced CNC machines, enhancing precision and production capacity"
+          "description": "Upgraded to 40+ advanced CNC machines, enhancing production capabilities"
         }
       ],
       "title": "Our Journey",
@@ -111,15 +111,15 @@
         {
           "id": "cnc-machines",
           "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2",
-          "title": "Advanced CNC Machining Center",
-          "capacity": "40+ Precision CNC Machines",
-          "description": "State-of-the-art CNC machining infrastructure capable of producing complex precision components across multiple materials",
-          "specifications": "High-precision multi-axis machining, tolerance levels up to 0.01mm"
+          "title": "CNC Machining Center",
+          "capacity": "40+ Advanced CNC Machines",
+          "description": "State-of-the-art CNC machining capabilities for precision component manufacturing",
+          "specifications": "Multi-axis machining, high-precision tolerances, diverse material compatibility"
         }
       ],
       "title": "Our Infrastructure",
       "enabled": true,
-      "subtitle": "Cutting-Edge Manufacturing Capabilities"
+      "subtitle": "Advanced Manufacturing Capabilities"
     },
     "companyOverview": {
       "type": "company-overview",
@@ -131,11 +131,11 @@
           "highlights": [
             "ISO 9001:2015 & ISO 14001:2015 Certified",
             "40+ Advanced CNC Machines",
-            "Serving Multiple Industries Nationwide",
-            "Custom Manufacturing Capabilities",
-            "Precision Components in Brass, Stainless Steel, Aluminum, Copper",
-            "Comprehensive Surface Finishing Services",
-            "Deburring and Mass Production Options"
+            "Serving Multiple Industries",
+            "Custom Manufacturing Solutions",
+            "Precision Component Specialists",
+            "Advanced Surface Finishing",
+            "Comprehensive Quality Control"
           ]
         }
       ],
@@ -150,37 +150,37 @@
           "id": "design",
           "step": 1,
           "title": "Engineering Design",
-          "description": "Comprehensive design and engineering analysis using advanced CAD/CAM technologies"
+          "description": "Comprehensive design and engineering analysis for optimal component performance"
         },
         {
           "id": "material",
           "step": 2,
           "title": "Material Selection",
-          "description": "Precise material sourcing and selection based on component requirements"
+          "description": "Precise material selection including brass, stainless steel, aluminum, and copper"
         },
         {
           "id": "production",
           "step": 3,
           "title": "CNC Machining",
-          "description": "Precision manufacturing using advanced multi-axis CNC machines"
+          "description": "Advanced CNC machining with high-precision cutting and shaping techniques"
         },
         {
           "id": "quality",
           "step": 4,
           "title": "Quality Inspection",
-          "description": "Rigorous quality control and dimensional verification"
+          "description": "Rigorous quality control and dimensional verification processes"
         },
         {
           "id": "finishing",
           "step": 5,
           "title": "Surface Treatment",
-          "description": "Advanced surface finishing and deburring processes"
+          "description": "Advanced surface finishing techniques for enhanced component performance"
         },
         {
           "id": "delivery",
           "step": 6,
           "title": "Packaging & Delivery",
-          "description": "Careful packaging and timely delivery of precision components"
+          "description": "Secure packaging and efficient logistics for timely component delivery"
         }
       ],
       "title": "Manufacturing Process",
