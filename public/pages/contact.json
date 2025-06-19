@@ -1,1 +1,55 @@
-null
+{
+  "hero": {
+    "type": "image",
+    "title": "Contact Momai Brass Precision Manufacturing",
+    "enabled": true,
+    "subtitle": "Your Precision Components Manufacturing Partner",
+    "description": "Ready to discuss your precision component requirements? Our expert team is prepared to provide tailored solutions for your industrial needs.",
+    "backgroundImage": "https://images.unsplash.com/photo-1517048676732-d65bc9c4d267"
+  },
+  "meta": {
+    "title": "Momai Brass - Precision Components Manufacturing Contact",
+    "description": "Connect with Momai Brass for expert precision manufacturing solutions. Quick response, 30 years of experience in industrial component production."
+  },
+  "sections": {
+    "contactForm": {
+      "type": "contact-form",
+      "items": [],
+      "title": "Send Us Your Requirements",
+      "enabled": true,
+      "subtitle": "Fill out the form and our team will respond within 24 hours with comprehensive solutions"
+    },
+    "contactInfo": {
+      "type": "contact-info",
+      "items": [
+        {
+          "icon": "map-pin",
+          "type": "address",
+          "title": "Our Locations",
+          "content": "Head Office: Plot No. 123, Industrial Area, Rajkot, Gujarat, India\nBranch Office: Jamnagar Industrial Estate, Gujarat, India"
+        },
+        {
+          "icon": "phone",
+          "type": "phone",
+          "title": "Contact Numbers",
+          "content": "+91 281 2345678, +91 281 2345679"
+        },
+        {
+          "icon": "mail",
+          "type": "email",
+          "title": "Email Us",
+          "content": "info@momaibrass.com, sales@momaibrass.com"
+        },
+        {
+          "icon": "linkedin",
+          "type": "social",
+          "title": "Connect on LinkedIn",
+          "content": "Momai Brass Precision Manufacturing"
+        }
+      ],
+      "title": "Multiple Ways to Connect",
+      "enabled": true,
+      "subtitle": "Accessible, responsive, and committed to your manufacturing needs"
+    }
+  }
+}
