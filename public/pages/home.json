@@ -1,7 +1,168 @@
 {
   "hero": {
-    "title": "Momai Brass",
-    "subtitle": "Precision Components Manufacturing Excellence",
-    "description": "With 30 years of expertise and 40+ CNC machines, we specialize in manufacturing high-precision components for automotive, pneumatic, hydraulic, and electrical sectors. Our state-of-the-art facility in Rajkot delivers superior quality parts made from brass, stainless steel, aluminum, and copper."
+    "cta": {
+      "primary": "Explore Precision Components",
+      "secondary": "Get a Custom Quote",
+      "primaryAction": "/products",
+      "secondaryAction": "/contact"
+    },
+    "type": "video",
+    "title": "Precision Manufacturing Excellence",
+    "enabled": true,
+    "subtitle": "Crafting Superior Components for Critical Industrial Applications",
+    "backgroundImage": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2",
+    "backgroundVideo": "https://videos.pexels.com/videos/industrial-cnc-machine-manufacturing-precision-parts-8819389.mp4"
+  },
+  "meta": {
+    "title": "Momai Brass - Precision Component Manufacturing | Industrial Solutions",
+    "description": "30 years of precision manufacturing expertise. CNC machining specialists producing high-quality brass, steel, and aluminum components for multiple industries."
+  },
+  "sections": {
+    "cta": {
+      "type": "cta",
+      "title": "Ready to Start Your Precision Project?",
+      "enabled": true,
+      "subtitle": "Partner with industry-leading precision component manufacturers. Fast, reliable, and innovative solutions tailored to your needs.",
+      "primaryCTA": {
+        "text": "View Our Capabilities",
+        "action": "/services"
+      },
+      "secondaryCTA": {
+        "text": "Contact Our Experts",
+        "action": "/contact"
+      }
+    },
+    "faqs": {
+      "type": "faqs",
+      "items": [
+        {
+          "id": "minimum-order",
+          "answer": "We accommodate both small custom orders and large-scale mass production, with flexible minimum order quantities starting from 50 units.",
+          "question": "What are your minimum order quantities?"
+        },
+        {
+          "id": "lead-time",
+          "answer": "Standard lead times range from 2-4 weeks depending on complexity and volume. Custom projects are evaluated individually for precise timelines.",
+          "question": "What are your typical production lead times?"
+        },
+        {
+          "id": "quality",
+          "answer": "We are ISO 9001:2015 and ISO 14001:2015 certified, ensuring consistent high-quality manufacturing and environmental management standards.",
+          "question": "What quality certifications do you have?"
+        },
+        {
+          "id": "materials",
+          "answer": "We specialize in brass, stainless steel, aluminum, and copper, providing comprehensive machining solutions across multiple material types.",
+          "question": "What materials can you work with?"
+        }
+      ],
+      "title": "Frequently Asked Questions",
+      "subtitle": "Get instant answers about our precision manufacturing process"
+    },
+    "stats": {
+      "type": "stats",
+      "items": [
+        {
+          "label": "Years Experience",
+          "number": "30+"
+        },
+        {
+          "label": "CNC Machines",
+          "number": "40+"
+        },
+        {
+          "label": "Industries Served",
+          "number": "5+"
+        },
+        {
+          "label": "Annual Production",
+          "number": "500,000+"
+        }
+      ],
+      "title": "Our Manufacturing Achievements",
+      "subtitle": "Delivering precision at scale with decades of expertise"
+    },
+    "expertise": {
+      "type": "expertise",
+      "title": "Industries We Serve",
+      "sectors": [
+        {
+          "id": "automotive",
+          "name": "Automotive",
+          "image": "https://images.unsplash.com/photo-1586336153815-6d6c9d596d40",
+          "description": "Specialized precision parts for automotive systems, ensuring reliability and performance.",
+          "applications": [
+            "Transmission Components",
+            "Engine Parts",
+            "Brake System Elements",
+            "Fuel Injection Components"
+          ]
+        },
+        {
+          "id": "pneumatic",
+          "name": "Pneumatic Systems",
+          "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2",
+          "description": "Precision-engineered components for pneumatic equipment and control systems.",
+          "applications": [
+            "Valve Components",
+            "Cylinder Fittings",
+            "Pressure Regulation Parts",
+            "Connector Assemblies"
+          ]
+        }
+      ],
+      "subtitle": "Precision Components for Critical Applications",
+      "description": "With three decades of manufacturing excellence, we deliver high-precision components across diverse industrial sectors using advanced CNC technology."
+    },
+    "whyChooseUs": {
+      "type": "why-choose-us",
+      "items": [
+        {
+          "id": "quality",
+          "icon": "shield-check",
+          "title": "Certified Quality Standards",
+          "description": "ISO 9001:2015 and ISO 14001:2015 certified, ensuring consistent high-quality manufacturing processes and environmental responsibility."
+        },
+        {
+          "id": "experience",
+          "icon": "calendar",
+          "title": "30 Years of Manufacturing Expertise",
+          "description": "Decades of specialized experience in precision component manufacturing across multiple industrial sectors."
+        },
+        {
+          "id": "technology",
+          "icon": "cog",
+          "title": "Advanced CNC Manufacturing",
+          "description": "40+ state-of-the-art CNC machines enabling complex, high-precision component production with exceptional accuracy."
+        }
+      ],
+      "title": "Why Partner with Momai Brass",
+      "subtitle": "Precision, Quality, Innovation"
+    },
+    "testimonials": {
+      "type": "testimonials",
+      "items": [
+        {
+          "id": "client-1",
+          "name": "Rajesh Patel",
+          "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a",
+          "rating": 5,
+          "company": "AutoTech Solutions",
+          "content": "Momai Brass consistently delivers exceptional precision components. Their technical expertise and commitment to quality have been crucial to our manufacturing process.",
+          "designation": "Procurement Manager"
+        },
+        {
+          "id": "client-2",
+          "name": "Sameer Mehta",
+          "image": "https://images.unsplash.com/photo-1615813967965-f9e7c1d4a8f4",
+          "rating": 5,
+          "company": "Pneumatic Systems Inc.",
+          "content": "Outstanding precision and reliability. Momai Brass has been our trusted manufacturing partner for complex pneumatic system components.",
+          "designation": "Operations Director"
+        }
+      ],
+      "title": "Client Success Stories",
+      "subtitle": "Trusted by Industry Leaders"
+    }
   }
 }
