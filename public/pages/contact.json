@@ -9,7 +9,7 @@
   },
   "meta": {
     "title": "Momai Brass - Precision Components Manufacturing Contact",
-    "description": "Connect with Momai Brass for expert precision manufacturing solutions. Quick response, 30 years of experience in industrial component production."
+    "description": "Connect with Momai Brass for expert precision component manufacturing. Quick response, 30 years of experience, ISO-certified solutions."
   },
   "sections": {
     "contactForm": {
@@ -44,7 +44,7 @@
           "icon": "linkedin",
           "type": "social",
           "title": "Connect on LinkedIn",
-          "content": "Momai Brass Official"
+          "content": "Momai Brass Precision Manufacturing"
         },
         {
           "icon": "whatsapp",
@@ -55,7 +55,7 @@
       ],
       "title": "Multiple Ways to Connect",
       "enabled": true,
-      "subtitle": "Accessible, responsive, and ready to support your precision manufacturing needs"
+      "subtitle": "Accessible, responsive, and committed to your manufacturing needs"
     }
   }
 }
