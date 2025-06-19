@@ -141,37 +141,37 @@
         {
           "step": 1,
           "title": "Initial Consultation",
-          "description": "Understand client requirements, discuss technical specifications, and evaluate project feasibility."
+          "description": "Understand client requirements, material specifications, and project objectives."
         },
         {
           "step": 2,
           "title": "Design and Engineering",
-          "description": "Create detailed design blueprints and select optimal manufacturing approach and materials."
+          "description": "Create detailed technical drawings and prototype designs using advanced CAD software."
         },
         {
           "step": 3,
           "title": "CNC Programming",
-          "description": "Develop precise CNC machine instructions for accurate component manufacturing."
+          "description": "Develop precise CNC machine instructions for optimal manufacturing efficiency."
         },
         {
           "step": 4,
           "title": "Precision Manufacturing",
-          "description": "Execute component production using advanced CNC machines with strict quality control."
+          "description": "Execute component production using state-of-the-art CNC machines with high accuracy."
         },
         {
           "step": 5,
-          "title": "Surface Finishing",
-          "description": "Apply advanced surface treatment techniques to enhance component performance and aesthetics."
+          "title": "Quality Inspection",
+          "description": "Conduct comprehensive quality checks to ensure dimensional accuracy and performance."
         },
         {
           "step": 6,
-          "title": "Quality Inspection and Delivery",
-          "description": "Conduct comprehensive quality checks and prepare components for timely customer delivery."
+          "title": "Delivery and Support",
+          "description": "Package and deliver components with ongoing technical support and consultation."
         }
       ],
       "title": "Our Manufacturing Process",
       "enabled": true,
-      "subtitle": "Systematic Approach Ensuring Superior Precision and Quality"
+      "subtitle": "Systematic Approach Ensuring Excellence in Every Component"
     }
   }
 }
