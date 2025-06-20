@@ -23,7 +23,7 @@
       },
       "secondaryCTA": {
         "text": "Call Now",
-        "action": "+91-281-2345678"
+        "action": "+91-281-123-4567"
       }
     },
     "services": {
@@ -113,7 +113,7 @@
         },
         {
           "id": "quality-standards",
-          "title": "Quality and Precision",
+          "title": "Precision and Quality Assurance",
           "metrics": [
             {
               "label": "Precision Tolerance",
@@ -124,11 +124,11 @@
               "value": "ISO 9001:2015, ISO 14001:2015"
             },
             {
-              "label": "Inspection Standard",
-              "value": "100% Quality Checked"
+              "label": "Quality Control",
+              "value": "100% Inspection Process"
             }
           ],
-          "description": "We maintain the highest quality standards through rigorous inspection processes and internationally recognized certifications."
+          "description": "Our ISO-certified processes ensure exceptional precision, quality, and environmental responsibility in every manufactured component."
         }
       ],
       "title": "Our Manufacturing Capabilities",
@@ -141,22 +141,22 @@
         {
           "step": 1,
           "title": "Initial Consultation",
-          "description": "Understand client requirements, material specifications, and project objectives."
+          "description": "Understand client requirements, material specifications, and project parameters."
         },
         {
           "step": 2,
           "title": "Design and Engineering",
-          "description": "Create detailed technical drawings and prototype designs using advanced CAD software."
+          "description": "Create detailed CAD models and manufacturing blueprints for precise component production."
         },
         {
           "step": 3,
           "title": "CNC Programming",
-          "description": "Develop precise CNC machine instructions for optimal manufacturing efficiency."
+          "description": "Develop optimized CNC machine programs for efficient and accurate manufacturing."
         },
         {
           "step": 4,
           "title": "Precision Manufacturing",
-          "description": "Execute component production using state-of-the-art CNC machines with high accuracy."
+          "description": "Execute component production using advanced CNC machining technologies."
         },
         {
           "step": 5,
@@ -166,7 +166,7 @@
         {
           "step": 6,
           "title": "Delivery and Support",
-          "description": "Package and deliver components with ongoing technical support and consultation."
+          "description": "Package and deliver precision components with ongoing technical support."
         }
       ],
       "title": "Our Manufacturing Process",
