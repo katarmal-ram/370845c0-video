@@ -18,9 +18,9 @@
   "sections": {
     "cta": {
       "type": "cta",
-      "title": "Partner with Precision Manufacturing Experts",
+      "title": "Partner with Industry Leaders",
       "enabled": true,
-      "subtitle": "Transform Your Manufacturing Requirements with Our Advanced Capabilities",
+      "subtitle": "Transform Your Manufacturing Needs with Our Precision Solutions",
       "primaryCTA": {
         "text": "Get a Quote",
         "action": "/contact"
@@ -59,13 +59,13 @@
           "id": "iso-quality",
           "name": "ISO 9001:2015",
           "image": "/placeholder.svg",
-          "description": "Quality management system certification demonstrating consistent product quality and customer satisfaction"
+          "description": "Quality Management System Certification demonstrating consistent product quality"
         },
         {
           "id": "iso-environmental",
           "name": "ISO 14001:2015",
           "image": "/placeholder.svg",
-          "description": "Environmental management system certification highlighting our commitment to sustainable manufacturing practices"
+          "description": "Environmental Management System Certification ensuring sustainable manufacturing practices"
         }
       ],
       "title": "Certifications & Standards",
@@ -88,7 +88,7 @@
         {
           "year": "2010",
           "title": "Quality Certification Achievement",
-          "description": "Obtained ISO 9001 certification, marking our commitment to international quality standards"
+          "description": "Obtained ISO 9001 certification, marking a milestone in quality management"
         },
         {
           "year": "2015",
@@ -98,7 +98,7 @@
         {
           "year": "2020",
           "title": "Technology Modernization",
-          "description": "Upgraded to 40+ advanced CNC machines, enhancing precision and production capacity"
+          "description": "Upgraded to 40+ advanced CNC machines, enhancing production capabilities"
         }
       ],
       "title": "Our Journey",
@@ -132,10 +132,10 @@
             "ISO 9001:2015 & ISO 14001:2015 Certified",
             "40+ Advanced CNC Machines",
             "Serving Multiple Industries",
-            "Custom Manufacturing Capabilities",
+            "Custom Manufacturing Solutions",
             "Precision Component Specialists",
-            "Comprehensive Surface Finishing Services",
-            "Sustainable Manufacturing Practices"
+            "Advanced Surface Finishing",
+            "Comprehensive Quality Control"
           ]
         }
       ],
@@ -162,7 +162,7 @@
           "id": "production",
           "step": 3,
           "title": "CNC Machining",
-          "description": "Advanced CNC machining with high-precision tolerances and complex geometries"
+          "description": "Advanced CNC machining with high-precision cutting and shaping techniques"
         },
         {
           "id": "quality",
@@ -174,13 +174,13 @@
           "id": "finishing",
           "step": 5,
           "title": "Surface Treatment",
-          "description": "Comprehensive surface finishing including deburring and advanced treatments"
+          "description": "Advanced surface finishing techniques for enhanced component performance"
         },
         {
           "id": "delivery",
           "step": 6,
           "title": "Packaging & Delivery",
-          "description": "Secure packaging and timely delivery of precision components"
+          "description": "Secure packaging and efficient logistics for timely component delivery"
         }
       ],
       "title": "Manufacturing Process",
