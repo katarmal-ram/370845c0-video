@@ -1,7 +1,7 @@
 {
   "site": {
     "name": "Momai Brass Precision Components",
-    "favicon": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?q=80&w=64&h=64&fit=crop",
+    "favicon": "https://images.unsplash.com/photo-1589149098258-3e9102cd105d?ixlib=rb-4.0.3&auto=format&fit=crop&w=64&q=60",
     "tagline": "Precision Engineering Excellence"
   },
   "footer": {
@@ -80,10 +80,10 @@
     ]
   },
   "company": {
-    "logo": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?q=80&w=300&fit=crop",
+    "logo": "https://images.unsplash.com/photo-1589149098258-3e9102cd105d?ixlib=rb-4.0.3&auto=format&fit=crop&w=250&q=80",
     "name": "Momai Brass Precision Components",
     "tagline": "Precision Engineering Excellence",
-    "description": "Momai Brass is a leading precision components manufacturer with 30 years of expertise in producing high-quality metal parts for automotive, pneumatic, and electrical sectors. We leverage advanced CNC technology to deliver exceptional precision and quality."
+    "description": "With 30 years of expertise, Momai Brass specializes in manufacturing high-precision components for automotive, pneumatic, and hydraulic sectors using advanced CNC technology and ISO-certified quality standards."
   },
   "contact": {
     "email": "info@momaibrass.com",
