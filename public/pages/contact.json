@@ -1,15 +1,15 @@
 {
   "hero": {
     "type": "image",
-    "title": "Contact Momai Brass Precision Manufacturing",
+    "title": "Contact Momai Brass",
     "enabled": true,
-    "subtitle": "Your Precision Components Manufacturing Partner",
-    "description": "Ready to discuss your precision component requirements? Our expert team is prepared to provide tailored solutions for your industrial needs.",
+    "subtitle": "Connect with Precision Manufacturing Experts",
+    "description": "Ready to discuss your precision component requirements? Our team of experienced professionals is here to provide tailored solutions for your manufacturing needs.",
     "backgroundImage": "https://images.unsplash.com/photo-1517048676732-d65bc9c4d267"
   },
   "meta": {
     "title": "Momai Brass - Precision Components Manufacturing Contact",
-    "description": "Connect with Momai Brass for expert precision manufacturing solutions. Quick response, 30 years of experience in industrial component production."
+    "description": "Contact Momai Brass for expert precision manufacturing solutions. Quick response, 30 years of experience in custom component production."
   },
   "sections": {
     "contactForm": {
@@ -17,7 +17,7 @@
       "items": [],
       "title": "Send Us Your Requirements",
       "enabled": true,
-      "subtitle": "Fill out the form and our team will respond within 24 hours with comprehensive solutions"
+      "subtitle": "Fill out the form and our team will respond within 24 hours with a comprehensive solution"
     },
     "contactInfo": {
       "type": "contact-info",
@@ -26,7 +26,7 @@
           "icon": "map-pin",
           "type": "address",
           "title": "Our Locations",
-          "content": "Head Office: Plot No. 123, Industrial Area, Rajkot, Gujarat, India\nBranch Office: Jamnagar Industrial Estate, Gujarat, India"
+          "content": "Head Office: Plot No. 123, Industrial Estate, Rajkot, Gujarat, India\nBranch Office: Jamnagar Industrial Area, Gujarat, India"
         },
         {
           "icon": "phone",
@@ -41,15 +41,21 @@
           "content": "info@momaibrass.com, sales@momaibrass.com"
         },
         {
+          "icon": "linkedin",
+          "type": "social",
+          "title": "Connect on LinkedIn",
+          "content": "Momai Brass Official"
+        },
+        {
           "icon": "whatsapp",
-          "type": "whatsapp",
+          "type": "messaging",
           "title": "WhatsApp Support",
-          "content": "+91 9876543210"
+          "content": "+91 98765 43210"
         }
       ],
       "title": "Multiple Ways to Connect",
       "enabled": true,
-      "subtitle": "Accessible, responsive, and committed to your manufacturing needs"
+      "subtitle": "We're accessible through various channels to ensure smooth communication"
     }
   }
 }
